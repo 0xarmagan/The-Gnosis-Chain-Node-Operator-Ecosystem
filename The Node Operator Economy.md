@@ -1,8 +1,3 @@
----
-title: The Node Economy
-
----
-
 # The Gnosis Chain Node Operator Ecosystem
 
 The Gnosis Chain ecosystem offers diverse opportunities for individuals to participate in the staking economy as node operators. 
