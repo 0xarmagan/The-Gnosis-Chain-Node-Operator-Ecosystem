@@ -4,4 +4,6 @@ The Gnosis Chain ecosystem offers diverse opportunities for individuals to parti
 
 This comprehensive guide explores various protocols and projects where you can contribute while building your own sustainable on-chain income flow.
 
-**Main goal**: **Establish your self sufficient on chain economy by becoming a node operator across multiple protocols within the Gnosis Chain ecosystem.**
+**Main goal**: **Establish your self sufficient on-chain economy by becoming a node operator across multiple protocols within the Gnosis Chain ecosystem.**
+
+Read the all documents [here]([https://www.gnosischain.com](https://github.com/0xarmagan/The-Gnosis-Chain-Node-Operator-Ecosystem)/)
